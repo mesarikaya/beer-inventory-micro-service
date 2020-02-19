@@ -1,4 +1,4 @@
-package com.mes.beerinventorymicroservice.config.web.model;
+package com.mes.beerinventorymicroservice.web.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

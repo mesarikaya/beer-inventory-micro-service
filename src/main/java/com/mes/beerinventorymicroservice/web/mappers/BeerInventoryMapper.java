@@ -1,7 +1,7 @@
 package com.mes.beerinventorymicroservice.web.mappers;
 
-import com.mes.beerinventorymicroservice.config.web.model.BeerInventoryDto;
 import com.mes.beerinventorymicroservice.domain.BeerInventory;
+import com.mes.beerinventorymicroservice.web.model.BeerInventoryDto;
 import org.mapstruct.Mapper;
 
 /**

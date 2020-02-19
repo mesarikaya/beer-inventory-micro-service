@@ -1,14 +1,14 @@
 package com.mes.beerinventorymicroservice.web.mappers;
 
-import com.mes.beerinventorymicroservice.config.web.model.BeerInventoryDto;
 import com.mes.beerinventorymicroservice.domain.BeerInventory;
+import com.mes.beerinventorymicroservice.web.model.BeerInventoryDto;
 import javax.annotation.processing.Generated;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
 @Generated(
     value = "org.mapstruct.ap.MappingProcessor",
-    date = "2020-02-16T00:38:16+0100",
+    date = "2020-02-19T23:26:20+0100",
     comments = "version: 1.3.1.Final, compiler: javac, environment: Java 11.0.2 (AdoptOpenJDK)"
 )
 @Component

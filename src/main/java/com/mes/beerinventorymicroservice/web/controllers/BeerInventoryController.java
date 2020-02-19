@@ -1,8 +1,8 @@
 package com.mes.beerinventorymicroservice.web.controllers;
 
-import com.mes.beerinventorymicroservice.config.web.model.BeerInventoryDto;
 import com.mes.beerinventorymicroservice.repositories.BeerInventoryRepository;
 import com.mes.beerinventorymicroservice.web.mappers.BeerInventoryMapper;
+import com.mes.beerinventorymicroservice.web.model.BeerInventoryDto;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.GetMapping;
